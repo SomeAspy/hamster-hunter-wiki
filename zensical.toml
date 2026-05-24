@@ -1,12 +1,19 @@
 [project]
 site_name = "Hamster Hunter Wiki"
+site_dir = "dist"
+docs_dir = "pages"
 
 [project.theme]
-logo = "logo.png"
-favicon = "logo.png"
+logo = "/assets/logo.png"
+favicon = "/assets/logo.png"
 features = [
     "search.highlight"
 ]
 
 [project.theme.palette]
 scheme = "slate"
+
+[project.markdown_extensions.zensical.extensions.macros]
+module_name = "macros"
+
+[project.markdown_extensions.md_in_html]

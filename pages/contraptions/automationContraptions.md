@@ -25,7 +25,7 @@ Automated contraptions are contraptions and tools that allow creations of pipeli
 {{ContraptionCard("Industrial Skinner", "IndustrialSkinner.webp", 200, "Yes", "Skins hamsters" )}}
 {{ContraptionCard("Money Generator", "Wheel_ContraptionPrefab.webp", 100, "No", "Generates money, up to $3 every 10 seconds." )}}
 {{ContraptionCard("Plunger Turret", "Plunger_turret.webp", 80, "Yes", "Grabs hamsters that are nearby" )}}
-{{ContraptionCard("Automation Tube", "PneumeticTube.webp", 25, "Yes", "Used to move hamsters or ingredients around to different contraptions" )}}
+{{ContraptionCard("Automation Tube", "PneumaticTube.webp", 25, "Yes", "Used to move hamsters or ingredients around to different contraptions" )}}
 {{ContraptionCard("Shelf", "Shelf.webp", 75, "Yes", "When used with an Auto Interactor, sells items automatically. Items are piped in with an Automation Tube" )}}
 {{ContraptionCard("Compactor", "BlockCompactor.webp", 50, "Yes", "Turns two hamsters into a block." )}}
 {{ContraptionCard("Auto Interactor", "ButtonInteractor.webp", 50, "No", "Interacts with an item automatically." )}}

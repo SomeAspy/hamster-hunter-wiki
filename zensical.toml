@@ -1,9 +1,9 @@
 [project]
-site_name = "Hamster Hunter Wiki"
+site_name = "Official Hamster Hunter Wiki"
 site_dir = "dist"
 docs_dir = "pages"
 site_url = "https://hh.github.aspy.dev"
-site_description = "The best wiki for Hamster Hunter"
+site_description = "The official developer-approved wiki for Hamster Hunter"
 site_author = "Hamster Hunter Wiki Contributors"
 repo_url = "https://github.com/someaspy/hamster-hunter-wiki"
 edit_uri = "edit/main/pages"

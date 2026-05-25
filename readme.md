@@ -1,4 +1,6 @@
-# Hamster Hunter Wiki
+# Official Hamster Hunter Wiki
+
+## Endorsed by Hamuno
 
 > [!NOTE]
     Assets are spelled exactly how the game references them internally.

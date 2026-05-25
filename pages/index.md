@@ -1,9 +1,9 @@
 ---
-title: Welcome to the Hamster Hunter Wiki!
-description: Hamster Hunter Wiki homepage
+title: Welcome to the Official Hamster Hunter Wiki!
+description: Official Hamster Hunter Wiki homepage
 ---
 
-Hamster Hunter is a game about hunting and torturing hamsters, and process them into product you can sell.
+Hamster Hunter is a game about hunting and torturing hamsters, and processing them into products you can sell.
 
 ![Hamster Hunter Logo](/assets/logo_1024.webp)
 
@@ -18,3 +18,5 @@ Hamster Hunter is a game about hunting and torturing hamsters, and process them 
 </a>
 
 Something not right on the wiki? [Open a PR or issue on GitHub!](https://github.com/someaspy/hamster-hunter-wiki)
+
+The Official Hamster Hunter Wiki will never have ads or tracking and will always be open source for all to view and edit!

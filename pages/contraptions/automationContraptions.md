@@ -5,6 +5,15 @@ description: All the Hamster Hunter automated contraptions
 
 Automated contraptions are contraptions and tools that allow creations of pipelines and factories.
 
+<details>
+  <summary>Click to view the Automation tutorial shown in-game</summary>
+    <video width="100%" controls aria-label="This is the official automation tutorial video given in game." style="border-radius: 8px; ">
+        <source src="/assets/Automation.webm" type="video/webm" >
+        <track kind="captions" src="/assets/AutomationTutorial.vtt" srclang="en" label="English">
+        Your browser does not support the video tag.
+    </video>
+</details>
+
 <div class="grid cards" markdown>
 
 {{ContraptionCard("Breeding Pen", "BreedingPen.webp", 100, "Yes", "Breeds two hamsters to create a third hamster" )}}

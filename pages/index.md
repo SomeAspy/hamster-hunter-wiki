@@ -1,4 +1,7 @@
-# Welcome to the **Hamster Hunter Wiki!**
+---
+title: Welcome to the Hamster Hunter Wiki!
+description: Hamster Hunter Wiki homepage
+---
 
 Hamster Hunter is a game about hunting and torturing hamsters, and process them into product you can sell.
 

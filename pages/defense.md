@@ -1,4 +1,7 @@
-# Defense
+---
+title: Defense
+description: Defenses and turrets in Hamster Hunter
+---
 
 Both the bat and turrets are not active during the day.
 

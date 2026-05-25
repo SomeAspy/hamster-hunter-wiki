@@ -1,4 +1,7 @@
-# Special Contraptions
+---
+title: Special Contraptions
+description: All the Hamster Hunter special contraptions
+---
 
 Special contraptions are contraptions that cannot be purchased.
 

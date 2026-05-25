@@ -1,4 +1,7 @@
-# Automated Contraptions
+---
+title: Automated Contraptions
+description: All the Hamster Hunter automated contraptions
+---
 
 Automated contraptions are contraptions and tools that allow creations of pipelines and factories.
 
@@ -19,4 +22,3 @@ Automated contraptions are contraptions and tools that allow creations of pipeli
 {{ContraptionCard("Auto Interactor", "ButtonInteractor.webp", 50, "No", "Interacts with an item automatically." )}}
 
 </div>
-

@@ -1,4 +1,7 @@
-# Black Market Contraptions
+---
+title: Black Market Contraptions
+description: All the Hamster Hunter standard Contraptions
+---
 
 Contraptions are devices to harm hamsters in various ways, but do not net any output other than information.
 

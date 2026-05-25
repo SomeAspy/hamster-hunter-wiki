@@ -2,9 +2,12 @@
 site_name = "Hamster Hunter Wiki"
 site_dir = "dist"
 docs_dir = "pages"
-site_url = "hh.github.aspy.dev"
+site_url = "https://hh.github.aspy.dev"
+site_description = "The best wiki for Hamster Hunter"
+site_author = "Hamster Hunter Wiki Contributors"
 repo_url = "https://github.com/someaspy/hamster-hunter-wiki"
 edit_uri = "edit/main/pages"
+copyright = "&copy; 2026 Hamuno & Hamster Hunter Wiki contributors"
 
 [project.theme]
 logo = "/assets/hamster.webp"

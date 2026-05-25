@@ -5,7 +5,7 @@ docs_dir = "pages"
 site_url = "https://hh.github.aspy.dev"
 site_description = "The official developer-approved wiki for Hamster Hunter"
 site_author = "Hamster Hunter Wiki Contributors"
-repo_url = "https://github.com/someaspy/hamster-hunter-wiki"
+repo_url = "https://github.com/someaspy/official-hamster-hunter-wiki"
 edit_uri = "edit/main/pages"
 copyright = "&copy; 2026 Hamuno & Hamster Hunter Wiki contributors"
 

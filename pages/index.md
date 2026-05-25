@@ -13,10 +13,12 @@ Hamster Hunter is a game about hunting and torturing hamsters, and processing th
 ## Thank you to all our contributors!
 <!-- markdownlint-enable MD026 -->
 
-<a href="https://github.com/someaspy/hamster-hunter-wiki/graphs/contributors">
-  <img alt="Hamster Hunter Wiki contributors" src="https://contrib.rocks/image?repo=someaspy/hamster-hunter-wiki" />
+<a href="https://github.com/someaspy/official-hamster-hunter-wiki/graphs/contributors">
+  <img alt="Hamster Hunter Wiki contributors" src="https://contrib.rocks/image?repo=someaspy/official-hamster-hunter-wiki" />
 </a>
 
-Something not right on the wiki? [Open a PR or issue on GitHub!](https://github.com/someaspy/hamster-hunter-wiki)
+Something not right on the wiki? [Open a PR or issue on GitHub!](https://github.com/someaspy/official-hamster-hunter-wiki)
 
 The Official Hamster Hunter Wiki will never have ads or tracking and will always be open source for all to view and edit!
+
+*All media assets on this wiki are directly ripped from the game and fall under &#169; Hamuno all rights reserved and used with explicit permission. For more details: view [license.txt](https://github.com/SomeAspy/official-hamster-hunter-wiki/blob/main/license.txt)

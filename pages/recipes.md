@@ -8,4 +8,4 @@ description: Hamster Hunter recipes
 
 Diagram made [with D2](https://d2lang.com/)
 
-[View the source](https://github.com/SomeAspy/hamster-hunter-wiki/blob/main/recipes.d2)
+[View the source](https://github.com/SomeAspy/official-hamster-hunter-wiki/blob/main/recipes.d2)

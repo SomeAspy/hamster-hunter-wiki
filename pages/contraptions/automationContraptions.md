@@ -2,7 +2,7 @@
 
 Automated contraptions are contraptions and tools that allow creations of pipelines and factories.
 
-<div class="grid-cards" markdown>
+<div class="grid cards" markdown>
 
 {{ContraptionCard("Breeding Pen", "BreedingPen.webp", 100, "Yes", "Breeds two hamsters to create a third hamster" )}}
 {{ContraptionCard("Hamster Lure", "HamsterBait.webp", 85, "No", "Attracts hamsters to itself" )}}

@@ -6,4 +6,10 @@ Hamster Hunter is a game about hunting and torturing hamsters, and process them 
 
 [:fontawesome-brands-steam: Buy Hamster Hunter on Steam](https://store.steampowered.com/app/2726490/Hamster_Hunter){ .md-button .md-button--primary } [:fontawesome-brands-discord: Join the Discord!](https://discord.gg/jYtM6Xym5U){ .md-button .md-button--primary }
 
+### Thank you to all our contributors!
+
+<a href="https://github.com/someaspy/hamster-hunter-wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=someaspy/hamster-hunter-wiki" />
+</a>
+
 Something not right on the wiki? [Open a PR or issue on GitHub!](https://github.com/someaspy/hamster-hunter-wiki)

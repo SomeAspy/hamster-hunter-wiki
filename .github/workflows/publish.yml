@@ -24,12 +24,7 @@ jobs:
         with:
           enable-cache: true
       - run: uv sync --locked --all-extras --dev
-
-      - run: curl -fsSL https://d2lang.com/install.sh | sh -s --
-
-      - name: Generate diagram
-        run: d2 recipes.d2 pages/assets/recipes.svg
-
+      
       - run: uv run zensical build --clean 
       - uses: actions/upload-pages-artifact@v5
         with:
